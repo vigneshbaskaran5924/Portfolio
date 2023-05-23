@@ -1,5 +1,5 @@
 
-Hi, I'm Vignesh, and I'm working towards becoming a Data Scientist. Right now, I'm focusing on all things related to data. Some topics that interest me are Data Analytics and Visualization, Data Engineering, and DevOps. I'm currently taking courses to learn SQL & Python from Jose Portilla and Tableau from Kirill Eremenko.
+Hi, I'm Vignesh, I'm a Data Analyst and working towards becoming a Data Scientist. Right now, I'm focusing on all things related to data. Some topics that interest me are Data Analytics and Visualization, Data Engineering, and DevOps. I'm currently taking courses to learn SQL & Python from Jose Portilla and Tableau from Kirill Eremenko.
 
 I believe that AI and machine learning will bring about the next big change in industries and can have a positive impact on the world. It's up to people like you and me to shape this future in a good way.
 
