@@ -5,18 +5,18 @@ I believe that AI and machine learning will bring about the next big change in i
 
 I also believe in using a combined approach to solve the world's challenges. Things like climate change, inequality, environmental justice, technology, education, race, and human ingenuity are all connected. By studying data, we can find patterns and educate ourselves to make better decisions.
 
-Index
+**Index**
 personal_projects (under construction) - here you will find an overview of my work with highlights from topics like:
 
-Python coding
+- Python coding
 
-SQL
+- SQL
 
-Tableau/Power BI visualizations
+- Tableau/Power BI visualizations
 
-MS Excel
+- MS Excel
 
-More About Me
+**More About Me**
 
 🔭 I’m currently applying to jobs in Data Analytics, Data Science, and Project Management. If you are looking for a hardworking team member with a touch of cultural know-how, look no further!
 
