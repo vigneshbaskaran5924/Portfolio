@@ -16,6 +16,3 @@ More About Me
 🌱 I’m currently pursuing Data, Ask me and I will tell you about it
 💬 New found interest in intersectional activism. I have always been interested in multifaceted challenges we all face but never knew there was a term for it.
 📫 How to reach me: www.linkedin.com/in/vignesh-baskaran-27366633
-😄 Pronouns: he/him
-⚡ Fun fact: Talk to me
-
