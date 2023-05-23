@@ -7,9 +7,14 @@ I also believe in using a combined approach to solve the world's challenges. Thi
 
 Index
 personal_projects (under construction) - here you will find an overview of my work with highlights from topics like:
+
 Python coding
+
 SQL
-Tableau visualizations
+
+Tableau/Power BI visualizations
+
+MS Excel
 
 More About Me
 
