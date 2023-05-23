@@ -6,6 +6,7 @@ I believe that AI and machine learning will bring about the next big change in i
 I also believe in using a combined approach to solve the world's challenges. Things like climate change, inequality, environmental justice, technology, education, race, and human ingenuity are all connected. By studying data, we can find patterns and educate ourselves to make better decisions.
 
 **Index**
+
 personal_projects (under construction) - here you will find an overview of my work with highlights from topics like:
 
 - Python coding
